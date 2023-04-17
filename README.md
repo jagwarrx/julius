@@ -5,6 +5,6 @@ fun projects ui
 
 Todo
 ------
-[ ] Add markmap to projects
-[ ] Sort projects
-[ ] Add prio
+- [ ] Add markmap to projects
+- [ ] Sort projects
+- [ ] Add prio
